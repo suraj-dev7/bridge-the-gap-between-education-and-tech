@@ -1,5 +1,5 @@
-Bridge the Gap Between Education and Tech
-Welcome to Bridge the Gap Between Education and Tech! This project features a variety of fun and educational games designed to enhance children's learning and engagement through interactive play.
+Welcome to Bridge the Gap Between Education and Tech! 
+This project features a variety of fun and educational games designed to enhance children's learning and engagement through interactive play.
 
 Live Demo 🎮
 You can check out the live version of this project here:
