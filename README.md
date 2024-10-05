@@ -7,16 +7,35 @@ You can check out the live version of this project here:
 👉 Play the Games -- Deployed link (https://suraj-dev7.github.io/bridge-the-gap-between-education-and-tech/)
 
 Games Included 🧠
-This project features the following interactive games:
+
+
 Subtraction Game - Sharpen your subtraction skills by solving puzzles.
+
+
 Addition Game - A fun way to practice addition through interactive challenges.
+
+
 Triplet Game - Test your knowledge with triplet-based challenges.
+
+
 Critter Catcher (Animal Identifier) - Learn about different animals by identifying them.
+
+
 Shape Shifter (Shape Identifier) - Recognize and identify various shapes.
+
+
 Memory Game - Exercise your memory by matching pairs of items.
+
+
 Tic Tac Toe - A classic game of strategy and fun.
+
+
 Vocab Game - Enhance your vocabulary by identifying the correct words.
+
+
 Typing Test - Improve your typing speed and accuracy with fun challenges.
+
+
 Sudoku Game - Challenge yourself with the famous number puzzle, Sudoku.
 
 
