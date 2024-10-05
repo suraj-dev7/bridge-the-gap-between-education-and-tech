@@ -7,8 +7,6 @@ You can check out the live version of this project here:
 👉 Play the Games -- Deployed link (https://suraj-dev7.github.io/bridge-the-gap-between-education-and-tech/)
 
 Games Included 🧠
-
-
 Subtraction Game - Sharpen your subtraction skills by solving puzzles.
 
 
@@ -40,7 +38,6 @@ Sudoku Game - Challenge yourself with the famous number puzzle, Sudoku.
 
 
 Features 🌟
-
 Child-Friendly Design: A simple, easy-to-use interface for kids of all ages.
 
 Interactive Games: Fun and educational games that encourage learning through play.
@@ -51,8 +48,6 @@ Deployed via GitHub Pages: Play the games directly from your browser without any
 
 
 Technology Stack 💻
-
-
 This project was built using:
 
 HTML5: Structure and content of the web pages.
@@ -70,8 +65,12 @@ GitHub Pages: For hosting and deploying the live site.
 Getting Started 🛠️
 Prerequisites
 To run this project locally, you will need:
+
 A modern web browser (Chrome, Firefox, Safari, etc.).
+
 Git (optional, for cloning the repository).
+
+
 Installation
 Clone the repository:
 bash
