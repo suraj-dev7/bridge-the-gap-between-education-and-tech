@@ -40,17 +40,30 @@ Sudoku Game - Challenge yourself with the famous number puzzle, Sudoku.
 
 
 Features 🌟
+
 Child-Friendly Design: A simple, easy-to-use interface for kids of all ages.
+
 Interactive Games: Fun and educational games that encourage learning through play.
+
 Responsive Layout: Works seamlessly across devices of all screen sizes.
+
 Deployed via GitHub Pages: Play the games directly from your browser without any installation.
 
 
 Technology Stack 💻
+
+
 This project was built using:
+
 HTML5: Structure and content of the web pages.
+
+
 CSS3: Styling and layout.
+
+
 JavaScript: Interactive functionality and game logic.
+
+
 GitHub Pages: For hosting and deploying the live site.
 
 
